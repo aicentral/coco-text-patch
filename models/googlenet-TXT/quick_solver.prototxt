@@ -1,0 +1,16 @@
+net: "train_val.prototxt"
+test_iter: 600
+test_interval: 4000
+test_initialization: false
+random_seed: 0
+display: 40
+average_loss: 40
+base_lr: 0.01
+lr_policy: "poly"
+power: 0.5
+max_iter: 2400000
+momentum: 0.9
+weight_decay: 0.0002
+snapshot: 10000
+snapshot_prefix: "googlenet_txt"
+solver_mode: GPU
