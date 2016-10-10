@@ -5,11 +5,13 @@ The data set is derived from <a href=https://arxiv.org/abs/1601.07140v2>COCO-Tex
 
 <p> <H2> Using the data set </h2>
 If you are going to use this data set please cite the paper
-<p>@article{coco-text-patch2016,
+
+<p>@INPROCEEDINGS{coco-text-patch2016,
 <br> &nbsp;&nbsp;&nbsp;&nbsp; title={Text Patches Data Set for Text verification},
 <br> &nbsp;&nbsp;&nbsp;&nbsp; author={Ibrahim, Ahmed and Abbott, Lynn and Hussein, Mohamed},
-<br> &nbsp;&nbsp;&nbsp;&nbsp; journal={arXiv preprint arXiv:16xxxx},
-<br> &nbsp;&nbsp;&nbsp;&nbsp; year={2016}
+<br> &nbsp;&nbsp;&nbsp;&nbsp; booktitle={Proc.\ 12th International Symposium on Visual Computing (ISVC)},
+<br> &nbsp;&nbsp;&nbsp;&nbsp; year={2016},
+<br> &nbsp;&nbsp;&nbsp;&nbsp; month={Dec}
 <br>}
 <p>
 <p> <H2> Creating the data set </h2>
