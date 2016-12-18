@@ -6,13 +6,19 @@ The data set is derived from <a href=https://arxiv.org/abs/1601.07140v2>COCO-Tex
 <p> <H2> Using the data set </h2>
 If you are going to use this data set please cite the paper
 
-<p>@INPROCEEDINGS{coco-text-patch2016,
-<br> &nbsp;&nbsp;&nbsp;&nbsp; title={Text Patches Data Set for Text verification},
-<br> &nbsp;&nbsp;&nbsp;&nbsp; author={Ibrahim, Ahmed and Abbott, Lynn and Hussein, Mohamed},
-<br> &nbsp;&nbsp;&nbsp;&nbsp; booktitle={Proc.\ 12th International Symposium on Visual Computing (ISVC)},
-<br> &nbsp;&nbsp;&nbsp;&nbsp; year={2016},
-<br> &nbsp;&nbsp;&nbsp;&nbsp; month={Dec}
-<br>}
+<p>@Inbook{Ibrahim2016,
+<br> &nbsp;&nbsp;&nbsp;&nbsp; author="Ibrahim, Ahmed and Abbott, A. Lynn and Hussein, Mohamed E.",
+<br> &nbsp;&nbsp;&nbsp;&nbsp; title="An Image Dataset of Text Patches in Everyday Scenes",
+<br> &nbsp;&nbsp;&nbsp;&nbsp; bookTitle="Advances in Visual Computing: 12th International Symposium, ISVC 2016, Las Vegas, NV, USA, December 12-14, 2016, Proceedings, Part II",
+<br> &nbsp;&nbsp;&nbsp;&nbsp; year="2016",
+<br> &nbsp;&nbsp;&nbsp;&nbsp; publisher="Springer International Publishing",
+<br> &nbsp;&nbsp;&nbsp;&nbsp; address="Cham",
+<br> &nbsp;&nbsp;&nbsp;&nbsp; pages="291--300",
+<br> &nbsp;&nbsp;&nbsp;&nbsp; isbn="978-3-319-50832-0",
+<br> &nbsp;&nbsp;&nbsp;&nbsp; doi="10.1007/978-3-319-50832-0_28",
+<br> &nbsp;&nbsp;&nbsp;&nbsp; url="http://dx.doi.org/10.1007/978-3-319-50832-0_28"
+<br> }
+
 <p>
 <p> <H2> Creating the data set </h2>
 <p>to create the data set you have to:-
